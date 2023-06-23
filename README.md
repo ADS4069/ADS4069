@@ -1,5 +1,6 @@
 <p align="center">
-  <samp>
-    <a href="https://ads4069.netlify.app/">me</a> .
-  </samp>
+  <span>
+    <a href="https://ads4069.netlify.app/">me</a> 
+  </span>
+
 </p>
