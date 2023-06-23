@@ -17,7 +17,7 @@ jobs:
 
           # Options
           filename: metrics.svg
-          user: antfu
+          user: ads4069
           base: header, activity, repositories, metadata
           config_timezone: Asia/Chongqing
           config_twemoji: yes
