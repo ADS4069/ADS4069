@@ -1,4 +1,3 @@
-![WWL's GitHub stats](https://github-readme-stats.vercel.app/api?username=ads4069)
 <p align="center">
   <samp>
     <a href="https://ads4069.netlify.app/">me</a> .
